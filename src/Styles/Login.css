@@ -1,0 +1,12 @@
+.container {
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  background-color: gray;
+  width: "100px";
+  height: "100px";
+}
