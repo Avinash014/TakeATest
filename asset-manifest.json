@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TakeATest/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/TakeATest/static/js/main.8270e369.chunk.js",
+    "main.js.map": "/TakeATest/static/js/main.8270e369.chunk.js.map",
+    "runtime-main.js": "/TakeATest/static/js/runtime-main.bff53f2d.js",
+    "runtime-main.js.map": "/TakeATest/static/js/runtime-main.bff53f2d.js.map",
+    "static/js/2.3281cf6b.chunk.js": "/TakeATest/static/js/2.3281cf6b.chunk.js",
+    "static/js/2.3281cf6b.chunk.js.map": "/TakeATest/static/js/2.3281cf6b.chunk.js.map",
+    "static/js/3.1c3868a7.chunk.js": "/TakeATest/static/js/3.1c3868a7.chunk.js",
+    "static/js/3.1c3868a7.chunk.js.map": "/TakeATest/static/js/3.1c3868a7.chunk.js.map",
+    "index.html": "/TakeATest/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/TakeATest/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3281cf6b.chunk.js.LICENSE.txt": "/TakeATest/static/js/2.3281cf6b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TakeATest/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff53f2d.js",
+    "static/js/2.3281cf6b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8270e369.chunk.js"
+  ]
+}
